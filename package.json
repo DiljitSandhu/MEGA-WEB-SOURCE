@@ -1,0 +1,17 @@
+{
+  "name": "mega",
+  "version": "1.0.0",
+  "description": "website!",
+  "main": "index.js",
+  "scripts": {
+    "test": "firebase deploy"
+  },
+  "keywords": [
+    "!"
+  ],
+  "author": "Diljit",
+  "license": "ISC",
+  "dependencies": {
+    "pokedex": "^1.0.0"
+  }
+}
